@@ -1,0 +1,6 @@
+2023-04-03 00:02:17.969449 - Initialized conversion of CBT399
+2023-04-03 00:02:18.024354 - Received CBT.V504.FILE399.PDS from FILE399.XMI 
+2023-04-03 00:02:18.027552 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE399.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:02:18.028717 - Found $$INDEX.txt (text/plain) in CBT.V504.FILE399.PDS, moved to PDS/$$INDEX
+2023-04-03 00:02:18.029765 - Found @FILE399.txt (text/plain) in CBT.V504.FILE399.PDS, moved to PDS/@FILE399
+2023-04-03 00:02:18.030843 - Found MANUALL.txt (text/plain) in CBT.V504.FILE399.PDS, moved to PDS/MANUALL
